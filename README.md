@@ -10,7 +10,7 @@ This project focuses on using healthcare analytics to predict the Length of Stay
 - Build a Machine Learning model to predict LOS.
 - Utilize AWS Sagemaker for streamlined data processing and machine learning workflows.
 - Perform live data scoring and update Snowflake with predictions.
-- 
+
 ## Approach
 
 1. **Utilizing Snowflake**: Leveraging Snowflake for efficient data storage, management, and exploratory data analysis (EDA).
